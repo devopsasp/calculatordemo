@@ -9,7 +9,7 @@ trigger:
 pool:
   name: Default
   demands:
-  - agent.name -equals Weltgeist
+  - agent.name -equals DESKTOP-1LRH8EH
 
 variables:
   solution: '**/*.sln'
